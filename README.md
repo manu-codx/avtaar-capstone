@@ -1,6 +1,6 @@
 # avtaar-capstone
 
-complete e-commerce website called 'avtaar'
+complete e-commerce website called 'attire'
 fetch the issues section for complete lookout
 
 used- html,css,js,jquery,bootstrap and isotope for filter purpose
